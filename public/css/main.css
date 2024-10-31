@@ -191,6 +191,7 @@ button{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 10px !important;
 }
 
 .validate-btn button{
@@ -205,4 +206,12 @@ button{
 
 .validate-btn button:hover{
     background-color: var(--color-blue-hover);
+}
+
+.page2{
+    position: absolute;
+    width: 379.72px;
+    height: 321.73px;
+    top: 80px;
+    left: -18rem;
 }
